@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <div className="flex">
         <div></div>
-        <div className="bg-cyan-100"></div>
+        <div className="bg-cyan-100 justify-center align-center"></div>
       </div>
     </>
   );
