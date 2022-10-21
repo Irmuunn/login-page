@@ -29,7 +29,7 @@ export default function Home() {
                   type="email"
                   autocomplete="email"
                   required
-                  class="relative block w-full appearance-none rounded-none rounded-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:z-10 focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm mt-1"
+                  class="relative block w-full appearance-none rounded-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:z-10 focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm mt-1"
                   placeholder="Email address"
                 ></input>
               </p>
@@ -42,7 +42,7 @@ export default function Home() {
                 type="password"
                 autocomplete="current-password"
                 required
-                class="relative block w-full appearance-none rounded-none rounded-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:z-10 focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm mt-1"
+                class="relative block w-full appearance-none rounded-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:z-10 focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm mt-1"
                 placeholder="Password"
               ></input>
               <div className="flex mt-4 mb-4">
@@ -74,6 +74,7 @@ export default function Home() {
             <p className="mt-20 ml-5 text-gray-400">Untitled UI 2069</p>
           </div>
         </div>
+        //Baruun tal
         <div className=" bg-slate-100 flex justify-center  items-center h-full w-1/2 relative">
           <div className="rounded-full bg-indigo-700 w-80 h-80"></div>
           <div className="absolute bottom-0 h-1/2 w-full bg-white bg-opacity-20 backdrop-blur-lg drop-shadow-lg"></div>
