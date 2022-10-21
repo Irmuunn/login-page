@@ -46,7 +46,7 @@ export default function Home() {
                 placeholder="Password"
               ></input>
               <div className="flex mt-4 mb-4">
-                <input type="checkbox" className=""></input>
+                <input type="checkbox" className=" accent-purple-700"></input>
                 <p className="ml-2 text-xs mr-6">
                   <b>Remember for 30 days</b>
                 </p>
@@ -71,10 +71,9 @@ export default function Home() {
             </div>
           </div>
           <div className="w-full h-1/6">
-            <p className="mt-20 ml-5 text-gray-400">Untitled UI 2069</p>
+            <p className="mt-20 ml-5 text-gray-400">© Untitled UI 2069</p>
           </div>
         </div>
-        //Baruun tal
         <div className=" bg-slate-100 flex justify-center  items-center h-full w-1/2 relative">
           <div className="rounded-full bg-indigo-700 w-80 h-80"></div>
           <div className="absolute bottom-0 h-1/2 w-full bg-white bg-opacity-20 backdrop-blur-lg drop-shadow-lg"></div>
